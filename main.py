@@ -219,8 +219,8 @@ st.markdown(
     """
     --- 
     <footer>
-    **Developed with 💚 using Streamlit**<br>
-    Visit [Streamlit Docs](https://docs.streamlit.io) for more information.
+    **Developed by 💚 Arron Kian Parejas**<br>
+   send me email via "parejasarronkian@gmail.com" for more information.
     </footer>
     """,
     unsafe_allow_html=True,

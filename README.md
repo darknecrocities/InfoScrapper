@@ -74,15 +74,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 ## Contact
 For any issues or suggestions, feel free to open an issue on this GitHub repository or contact me via email at `parejasarronkian@gmail.com`.
 
-## Notes 📝
-
-- **Important**: You **cannot** use or try the parsing directly on the live viewing for the web scraper. If you want to test it out, please follow one of the options below:
-  - **Fork the repository** and **download all the files** from this repo to run and test it locally on your machine. 🚀
-  - Alternatively, you can use an **OLLAMA API key** and integrate it into the code to test the functionality. 🔑
-
-## Emo and Other Features 💡
-
-- **emo**: If your project includes a feature called "emo," this section will cover its functionality. For example, it could be related to emotion recognition, sentiment analysis, or similar tasks in your scraper. 😎
+## Other Features 💡
   
 - **Other Features**: The repository might contain additional features such as:
   - Web scraping for specific data types. 🌐
@@ -101,6 +93,12 @@ Please ensure you review the relevant files to understand how these features are
   git clone https://github.com/your-username/repo-name.git
   cd repo-name
 ---
+## Notes 📝
+
+- **Important**: You **cannot** use or try the PARSING directly on the live viewing for the web scraper. If you want to test it out, please follow one of the options below:
+  - **Fork the repository** and **download all the files** from this repo to run and test it locally on your machine. 🚀
+  - Alternatively, you can use an **OLLAMA API key** and integrate it into the code to test the functionality. 🔑
+
 Made with 💚 using Streamlit and Python.
 
 ## License
